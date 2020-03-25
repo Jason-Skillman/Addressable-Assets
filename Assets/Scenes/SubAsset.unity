@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 372393597}
   - component: {fileID: 372393596}
   m_Layer: 0
-  m_Name: InstatiateAsset
+  m_Name: SubAsset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -147,11 +147,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 372393595}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b17112e0e37693e468a3d82fbcec36c2, type: 3}
+  m_Script: {fileID: 11500000, guid: c04dcbd3adb46fd418ef4f6f4908110e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   assetRef:
-    m_AssetGUID: ae564a146a7c21648899c41ced83e9b5
+    m_AssetGUID: 
     m_SubObjectName: 
 --- !u!4 &372393597
 Transform:

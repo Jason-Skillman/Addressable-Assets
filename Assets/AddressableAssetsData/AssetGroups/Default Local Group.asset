@@ -37,6 +37,24 @@ MonoBehaviour:
       type: 3}
     m_TargetAsset: {fileID: 6033358549851309011, guid: ae564a146a7c21648899c41ced83e9b5,
       type: 3}
+  - m_GUID: ba461582427a93f4e92fd4e366f3aa8f
+    m_Address: FancyBowl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c23e777238711cf4ea781616836f2b28
+    m_Address: Table
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 5618144229072828090, guid: c23e777238711cf4ea781616836f2b28,
+      type: 3}
+    m_TargetAsset: {fileID: 5618144229072828090, guid: c23e777238711cf4ea781616836f2b28,
+      type: 3}
   - m_GUID: f2d7b64f9db991045a52bf53726e21cc
     m_Address: CubeDestroy
     m_ReadOnly: 0

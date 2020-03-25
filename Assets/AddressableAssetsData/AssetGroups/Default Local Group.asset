@@ -37,6 +37,16 @@ MonoBehaviour:
       type: 3}
     m_TargetAsset: {fileID: 6033358549851309011, guid: ae564a146a7c21648899c41ced83e9b5,
       type: 3}
+  - m_GUID: f2d7b64f9db991045a52bf53726e21cc
+    m_Address: CubeDestroy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 6033358549851309011, guid: f2d7b64f9db991045a52bf53726e21cc,
+      type: 3}
+    m_TargetAsset: {fileID: 6033358549851309011, guid: f2d7b64f9db991045a52bf53726e21cc,
+      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a125e92ee532a5a4fae4360b7563df6d, type: 2}
   m_SchemaSet:

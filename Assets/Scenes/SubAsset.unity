@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assetRef:
-    m_AssetGUID: 
+    m_AssetGUID: c23e777238711cf4ea781616836f2b28
     m_SubObjectName: 
 --- !u!4 &372393597
 Transform:

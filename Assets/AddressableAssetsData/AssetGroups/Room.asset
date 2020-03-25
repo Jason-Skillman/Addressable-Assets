@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Room
+  m_EditorClassIdentifier: 
+  m_GroupName: Room
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aae2d58449a964b41a60e7ef7ce9075a
+  m_SerializeEntries:
+  - m_GUID: 1855ee5fc88fea742840b3faa4cc1870
+    m_Address: Room1Sphere
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 6228065094568360140, guid: 1855ee5fc88fea742840b3faa4cc1870,
+      type: 3}
+    m_TargetAsset: {fileID: 6228065094568360140, guid: 1855ee5fc88fea742840b3faa4cc1870,
+      type: 3}
+  - m_GUID: 9c4b4108667d16f4db4c6cc40ff1bde3
+    m_Address: Room1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEditor.SceneAsset, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b8d5e8b1d40698d48ab42ffbd3537327
+    m_Address: Room1Cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 3472685103585839558, guid: b8d5e8b1d40698d48ab42ffbd3537327,
+      type: 3}
+    m_TargetAsset: {fileID: 3472685103585839558, guid: b8d5e8b1d40698d48ab42ffbd3537327,
+      type: 3}
+  - m_GUID: fd049d63560729448a51505fd7f533dc
+    m_Address: Room2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEditor.SceneAsset, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    m_MainAsset: {fileID: 102900000, guid: fd049d63560729448a51505fd7f533dc, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: fd049d63560729448a51505fd7f533dc, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a125e92ee532a5a4fae4360b7563df6d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bce99dc8aacb1074d8ffa3ae7093fd96, type: 2}
+    - {fileID: 11400000, guid: 4222c5deaaaee1e4583173618380b444, type: 2}

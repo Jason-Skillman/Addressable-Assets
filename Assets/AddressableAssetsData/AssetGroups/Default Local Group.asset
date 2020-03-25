@@ -43,7 +43,8 @@ MonoBehaviour:
     m_SerializedLabels: []
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
+    m_MainAsset: {fileID: -927199367670048503, guid: ba461582427a93f4e92fd4e366f3aa8f,
+      type: 3}
     m_TargetAsset: {fileID: 0}
   - m_GUID: c23e777238711cf4ea781616836f2b28
     m_Address: Table
